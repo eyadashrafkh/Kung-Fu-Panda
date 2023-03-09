@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Noodles.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/Strategy/UpdateBehavior.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/View/ScoreObserver.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/View/Observer.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/View/ViewPlayers.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/View/MainMenu.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/Strategy/HardModeUpdateBehavior.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/component/MenuMouseInput.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Po.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Controller/Main.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/abstractPlayer.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Tiger.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/circusofplates/main/CircusOfPlates.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/ScoreObservable.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/View/StartMenu.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/Strategy/MedModeUpdateBehavior.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Droppable.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Controller/SingletonConnection.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Spaghetti.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/component/Text.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/View/PanelGame.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Monkey.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/Strategy/EasyModeUpdateBehavior.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Bomb.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/Plates.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/component/AudioP.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/component/Sound.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/View/GameOver.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/component/Key.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Controller/DropObjectConcreteFactory.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Model/obj/NinjaKnife.java</file>
+            <file>file:/C:/Users/eyada/OneDrive%20-%20Alexandria%20University/Documents/NetBeansProjects/KungFuPlatesNewTneen/src/Controller/DropObjectFactory.java</file>
+        </group>
+    </open-files>
+</project-private>

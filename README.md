@@ -9,10 +9,7 @@ Game developed using Java where user catches plates to gain score point and avoi
 4. [Deployment](#deployment)
 5. [Design Patterns](#design-patterns)
 6. [S.O.L.I.D Principles](#solid-principles)
-7. [Data Base](#data-base)
-8. [Documentation](#documentation)
-9. [Contributors](#contributors)
-10. [Screenshots](#screenshots)
+7. [Screenshots](#screenshots)
 
 ## Project Functionalities
 
